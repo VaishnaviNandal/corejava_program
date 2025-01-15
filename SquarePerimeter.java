@@ -20,3 +20,6 @@ public class SquarePerimeter {
         System.out.println("Perimeter: " + perimeter);
     }
 }
+/*Output:
+Perimeter: 20.0
+*/
